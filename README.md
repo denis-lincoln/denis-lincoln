@@ -1,4 +1,4 @@
-# ✨ Sobre Mim  .
+# ✨ Sobre Mim
 
 💻 Desenvolvedor com forte background em automação de processos industriais e atualmente focado em **RPA, APA e IA aplicada a processos de negócios**.  
 🚀 Experiência em **sistemas legados**, automação com **VB e macros para SAP/TOTVS**.  
