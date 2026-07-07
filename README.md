@@ -1,6 +1,4 @@
-# ✨ Denis Lincoln | Desenvolvedor Full Stack + AI Automation Specialist
-
-**Transformo processos complexos em soluções completas e inteligentes — do hardware físico até agents autônomos em produção.**
+# ✨ Denis Lincoln | Desenvolvedor Full Stack + AI Automation/Agents
 
 💼 **Perfil Profissional**  
 Bacharel em Administração com sólida experiência prática em tecnologia. Especialista em mapear, automatizar e otimizar processos de ponta a ponta.  
@@ -26,11 +24,5 @@ Desenvolvo soluções **full stack** integrando hardware, cloud multi-plataforma
 - Modernização de ERP + automação de inventário e supply chain
 - Desenvolvimento completo de soluções do hardware até a interface, utilizando IA generativa (Cursor) para aceleração
 
-📂 **Projetos em Destaque**
-- 🤖 Plataforma de Agents & Orquestração IA (Langflow + Agno + RAG)
-- ☁️ Infraestrutura Multi-Cloud + GitHub Actions (GCP + Azure + Railway)
-- 📊 Dashboard + Automação de Processos em Tempo Real
-- 🏷️ Sistema completo de Código de Barras + Gestão Inteligente de Estoque
-- 🔌 Integrações Hardware-Software + Automação RPA/APA
   
 LinkedIn: [linkedin.com/in/denis-lincoln-silva-8a2215325](https://www.linkedin.com/in/denis-lincoln-silva-8a2215325)  
