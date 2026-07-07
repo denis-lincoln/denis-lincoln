@@ -1,48 +1,36 @@
-# ✨ Sobre Mim
+# ✨ Denis Lincoln | Desenvolvedor Full Stack + AI Automation Specialist
 
-💻 Desenvolvedor com forte background em automação de processos industriais e atualmente focado em **RPA, APA e IA aplicada a processos de negócios**.  
-🚀 Experiência em **sistemas ERP**, automação com **VB e macros para SAP/TOTVS**.  
-📊 Especialista na **criação e interação de processos automatizados com dashboards**, permitindo análise de dados e monitoramento em tempo real.  
-☁️ Conhecimento sólido em **infraestrutura cloud (GCP), Langflow, Agno e Python**.  
-📦 Experiência na **implementação e implantação de código de barras, padronizações em inventários e reporte de itens em estoque**.  
-🧠 Conhecedor de **IA/LLM**, trabalhando com diversos modelos e aplicações avançadas.  
-⚡ Apaixonado por **tecnologia e inovação**, sempre buscando otimizar processos e impulsionar eficiência operacional.  
+**Transformo processos complexos em soluções completas e inteligentes — do hardware físico até agents autônomos em produção.**
 
----
+💼 **Perfil Profissional**  
+Bacharel em Administração com sólida experiência prática em tecnologia. Especialista em mapear, automatizar e otimizar processos de ponta a ponta.  
+Desenvolvo soluções **full stack** integrando hardware, cloud multi-plataforma, DevOps e IA avançada. Foco em entregar eficiência real, escalabilidade e automação inteligente para negócios.
 
-## 🔧 Tecnologias & Ferramentas  
+🚀 **Principais Competências (o que o mercado mais busca hoje)**
+- **Full Stack + Dev do Zero**: Desenvolvimento completo (front, back, banco, deploy) + integração com hardware físico e IoT
+- **Multi-Cloud & Infra**: Azure, Google Cloud (GCP), Railway + orquestração de pipelines
+- **CI/CD & Automação**: GitHub Actions, RPA, APA, macros avançadas e esteiras completas
+- **IA & Agents Avançados**: Criação, orquestração e deployment de agents inteligentes, RAGs, embeddings, chatbots, Langflow, Agno + integração com diversos modelos de LLM
+- **Processos & Negócios**: Mapeamento completo de processos + automação inteligente (ERP SAP/TOTVS, inventário, dashboards em tempo real)
+- **Ferramentas & Tecnologias**:
+  - Linguagens: Python, JavaScript/Node, VB/.NET
+  - Cloud: Azure • GCP • Railway
+  - Automação: GitHub Actions • Langflow • Agno • RPA • Cursor AI
+  - Dados: PostgreSQL • SQL Server • Power BI • Streamlit
+  - ERP & Negócios: SAP • TOTVS • Código de barras • Gestão de estoque
 
-- **Linguagens:** Python, VB  
-- **Cloud:** Google Cloud Platform (GCP)  
-- **Orquestração & Automação:** Langflow, Agno, RPA, APA  
-- **IA & LLMs:** Desenvolvimento de agentes inteligentes, RAGs, embeddings, chatbots, AgentData  
-- **Bancos de Dados:** PostgreSQL, SQL Server  
-- **Sistemas ERP:** SAP, TOTVS  
-- **Dashboards & Data Visualization:** Power BI, Streamlit  
+📈 **Experiência & Destaques**
+- Automação end-to-end de processos industriais e administrativos (redução de tarefas manuais e ganhos de eficiência)
+- Construção de agents IA e orquestração de fluxos inteligentes integrados a sistemas legados
+- Implementação de soluções cloud escaláveis + dashboards interativos para monitoramento em tempo real
+- Modernização de ERP + automação de inventário e supply chain
+- Desenvolvimento completo de soluções do hardware até a interface, utilizando IA generativa (Cursor) para aceleração
 
----
-
-## 📈 Experiência Profissional  
-
-- **Automação de Processos Industriais:** Desenvolvimento de soluções para otimizar workflows utilizando **RPA e macros**.  
-- **Integração de Sistemas:** Conexão entre **sistemas ERP e novas tecnologias** para modernização de processos.  
-- **Infraestrutura Cloud:** Implementação de soluções na **GCP** para escalabilidade e eficiência.  
-- **Dashboards & Monitoramento:** Desenvolvimento de **dashboards interativos** para acompanhamento e análise dos processos automatizados.  
-- **Código de Barras & Estoque:** Implementação de **código de barras, padronizações em inventários e reporte de itens em estoque**.  
-- **IA & LLMs:** Desenvolvimento de **agentes, RAGs, embeddings e chatbots personalizados** para automação inteligente.  
-
----
-
-## 📂 Projetos  
-
-📊 **Automação de Processos:** Desenvolvimento de macros e RPA para reduzir tarefas repetitivas.  
-🤖 **Orquestração de Fluxos RPA:** Implementação de um sistema de automação baseado no **Langflow e Agno**.  
-📉 **Dashboard Interativo para Processos Automatizados:** Criação de **dashboards em Grafana/Power BI** para monitoramento e análise em tempo real.  
-🏷️ **Código de Barras e Inventário:** Automação de processos de estoque com **padronização e reporte automatizado**.  
-🧠 **Desenvolvimento de Agentes & RAGs:** Construção de soluções baseadas em **IA**, incluindo **chatbots e agentes inteligentes** para integração com diferentes sistemas.  
-
----
-
-## 📧 Contato  
-
-📩 [www.linkedin.com/in/denis-lincoln-silva-8a2215325](#)  
+📂 **Projetos em Destaque**
+- 🤖 Plataforma de Agents & Orquestração IA (Langflow + Agno + RAG)
+- ☁️ Infraestrutura Multi-Cloud + GitHub Actions (GCP + Azure + Railway)
+- 📊 Dashboard + Automação de Processos em Tempo Real
+- 🏷️ Sistema completo de Código de Barras + Gestão Inteligente de Estoque
+- 🔌 Integrações Hardware-Software + Automação RPA/APA
+  
+LinkedIn: [linkedin.com/in/denis-lincoln-silva-8a2215325](https://www.linkedin.com/in/denis-lincoln-silva-8a2215325)  
